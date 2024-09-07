@@ -1,11 +1,4 @@
 import streamlit as st
-
-st.title("🎈 이미지 생성 AI")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
-
-import streamlit as st
 from openai import OpenAI
 import os
 
